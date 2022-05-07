@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Muhammad Talha</h1>
 <h3 align="center">A CS sophomore exploring new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-world-commits&label=Profile%20views&color=0e75b6&style=flat" alt="hello-world-commits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hello-world-commits&label=Profile%20views&color=0e75b6&style=flat" alt="itsMuhammadtalha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hello-world-commits" alt="hello-world-commits" /></a> </p>
 
