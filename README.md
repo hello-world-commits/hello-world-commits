@@ -9,11 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/hello-world-commits/hello-world-commits/blob/master/Programming%20and%20coding%20-%20Kit8.png">
 
-- 🌱 I’m currently learning **Web development | UI Design | Databases**
+- 🌱 I’m currently learning **Data Science | Machine Learning | python | Web development | UI Design | Databases**
 
-- 💬 Ask me about **Data Structures | Basic programming | Python**
+- 💬 Ask me about **Data and AI related Stuff**
 
 - 📫 How to reach me **mehmoodtalha315@gmail.com**
+
+- 🤝 Connect with me on LinkedIn ➡️ <a href="https://www.linkedin.com/in/muhammad-talha-933481210/">**Talha's LinkedIn**</a>
 
 - ⚡ Fun fact **I think I am "funny"**
 
