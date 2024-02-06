@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/hello-world-commits/hello-world-commits/blob/master/Programming%20and%20coding%20-%20Kit8.png">
 
-- 🌱 I’m currently learning **Data Science | Machine Learning | python | Web development | UI Design | Databases**
+- 🌱 I’m currently learning **Python | Data Science | Machine Learning | python | Web development | UI Design | Databases**
 
 - 💬 Ask me about **Data and AI related Stuff**
 
