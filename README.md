@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Muhammad Talha</h1>
-<h3 align="center">A CS sophomore exploring new technologies</h3>
+<h3 align="center">CS sophomore | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsMuhammadtalha&label=Profile%20views&color=0e75b6&style=flat" alt="itsMuhammadtalha" /> </p>
 
